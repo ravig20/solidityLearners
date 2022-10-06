@@ -1,0 +1,10 @@
+js cheatsheet...
+https://www.codewithharry.com/blogpost/javascript-cheatsheet/
+css cheats sheets
+https://www.codewithharry.com/blogpost/css-cheatsheet/
+html
+codewithharry.com/blogpost/html-cheatsheet/
+mongo bd ..
+codewithharry.com/blogpost/mongodb-cheatsheet
+https://www.mongodb.com/developer/quickstart/cheat-sheet/#connect-mongodb-shell
+
